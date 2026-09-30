@@ -1,0 +1,9 @@
+.git
+.venv*
+data
+output
+tmp
+__pycache__
+.pytest_cache
+.docker-config
+*.pyc
